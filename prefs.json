@@ -1,0 +1,3 @@
+{
+"dbUrl": "jdbc:h2:./my_new_db"
+}
